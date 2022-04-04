@@ -1,0 +1,11 @@
+#logout {
+    font-size: 20px; float: right;
+  }
+  #output
+  {
+      padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+  }
+  body
+{
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
